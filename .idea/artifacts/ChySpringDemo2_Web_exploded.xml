@@ -1,0 +1,23 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="ChySpringDemo2:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChySpringDemo2_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="ChySpringDemo2/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="ChySpringDemo2" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: chy:ChySpring2.0:1.0-SNAPSHOT" />
+          <element id="library" level="project" name="Maven: javax.servlet:servlet-api:2.5" />
+          <element id="library" level="project" name="Maven: commons-lang:commons-lang:2.6" />
+          <element id="library" level="project" name="Maven: com.alibaba:fastjson:1.2.56" />
+          <element id="library" level="project" name="Maven: cglib:cglib:3.2.10" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant:1.10.3" />
+          <element id="library" level="project" name="Maven: org.apache.ant:ant-launcher:1.10.3" />
+          <element id="library" level="project" name="Maven: org.ow2.asm:asm:7.0" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
